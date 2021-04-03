@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+body {
+    background-image: url(../img/wheat/wheat.png);
+    box-sizing: border-box;
+    margin: 0;
+    color: rgb(245, 241, 241);
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+.bg-text {
+    background-color: burlywood;
+}
+
+.body-text {
+    background-color: darkmagenta;
+    font-size: 20px;
+    padding: 50px;
+}
+
+.body-text a {
+    color: yellow;
+}
+
+.body-text a:hover {
+    color: white;
+}
+
+.important-link {
+    color: yellow;
+}
+
+.box {
+    background-image: url(../img/versaille3.jpg) ;
+    background-size: cover;
+    background-position: top;
+    padding: 200px 100px;
+    margin: 100px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(224, 219, 219);
+}
